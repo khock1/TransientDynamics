@@ -4,6 +4,8 @@
 % of coral reefs" by Hock et al.
 % Author & copyright: Karlo Hock, University of Queensland. 2021
 
+% Data should be retrieved from https://zenodo.org/record/4708653
+
 load('results_final_stoch.mat');
 scen=1;
 relz=50;
