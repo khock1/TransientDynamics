@@ -5,6 +5,8 @@
 % of coral reefs" by Hock et al.
 % Author & copyright: Karlo Hock, University of Queensland. 2021
 
+% Data should be retrieved from https://zenodo.org/record/4708653
+
 % find if coral attractor exists
 % make sure that the coral cover does not go below 5percent in the window
 load('sens_traj.mat');
